@@ -2,9 +2,7 @@
 
 
 
-<p align="center">
-
-&nbsp; <b>Scenario-based programs • Strong fundamentals • Consistent practice</b>
+<p align="center">&nbsp; <b> • Scenario-based programs • Strong fundamentals • Practice questions • College</b>
 
 </p>
 
@@ -16,13 +14,7 @@
 
 <p>
 
-This repository contains my C++ practice programs written as part of regular
-
-coding and problem-solving. The programs are mostly <b>scenario-based</b> and
-
-are numbered (program1, program2, etc.) to match their intended sequence and
-
-context.
+This repository contains my C++ practice programs written as part of regular coding and problem-solving. The programs are mostly <b>scenario-based</b> and are numbered (program1, program2, etc.) to match their intended sequence and context.
 
 </p>
 
@@ -34,11 +26,7 @@ context.
 
 <p>
 
-The purpose of this repository is to strengthen my understanding of core C++
-
-concepts through hands-on practice. I focus on writing clear and logical
-
-solutions while gradually improving code structure and readability as I learn.
+The purpose of this repository is to strengthen my understanding of core C++ concepts through hands-on practice. I focus on writing clear and logical solutions while gradually improving code structure and readability as I learn.
 
 </p>
 
@@ -50,31 +38,22 @@ solutions while gradually improving code structure and readability as I learn.
 
 <p>
 
-Programs are written as <b>Program 1, Program 2, Program 3</b>, and so on,
-
-because each program represents a distinct scenario or problem statement.
-
-To maintain clarity, each file includes comments at the top describing:
+Programs are written as <b>Program 1, Program 2, Program 3</b>, and so on, because each program represents a distinct scenario or problem statement. To maintain clarity, each file includes comments at the top describing:
 
 </p>
-
-
 
 <ul>
 
 &nbsp; <li>The scenario or problem being solved</li>
-
 &nbsp; <li>The main concepts used (for example: classes, objects, loops)</li>
 
 </ul>
 
 
-
+&nbsp;
 <p>
 
-Folders are used to group related concepts, keeping the repository easy to
-
-navigate.
+Folders are used to group related concepts, keeping the repository easy to navigate.
 
 </p>
 
@@ -84,15 +63,15 @@ navigate.
 
 cpp-programming-practice/
 
-├── Basics/
+├── Basics
 
-├── Control\_Flow/
+├── Control_Flow
 
-├── Arrays/
+├── Arrays
 
-├── Functions/
+├── Functions
 
-├── Classes\_and\_Objects/
+├── Classes_and_Objects
 
 └── README.md
 
@@ -106,11 +85,7 @@ cpp-programming-practice/
 
 <p>
 
-I treat this repository as a practice log. Programs are not rushed or copied;
-
-they are written to build logic and confidence. As my understanding improves,
-
-earlier programs may be revisited and refined.
+I treat this repository as a practice log. Programs are not rushed or copied; they are written to build logic and confidence. As my understanding improves, earlier programs may be revisited and refined.
 
 </p>
 
